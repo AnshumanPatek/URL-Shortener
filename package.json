@@ -1,0 +1,19 @@
+{
+  "name": "15.short-url-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Anshuman Patek",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "nanoid": "^5.0.2",
+    "nodemon": "^3.0.1",
+    "shortid": "^2.2.16"
+  }
+}
